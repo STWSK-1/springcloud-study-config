@@ -1,2 +1,2 @@
 config:
-  info: config-prd.yml,version=1
+  info: config-prd.yml,version=3
